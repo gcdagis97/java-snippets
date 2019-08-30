@@ -1,16 +1,14 @@
+package converttime;
+
+import java.util.Scanner;
+
 /**
  * @author George Dagis
  * @version 1.0
  * @since 2016-08-31
  */
 
-package converttime;
-
-/**
- * Program converts a user entered time in military format (24hr) and converts it to standard format (12hr).
- */
-
-import java.util.Scanner;
+ // Program converts a user entered time in military format (24hr) and converts it to standard format (12hr).
 
 public class ConvertTime {
 
