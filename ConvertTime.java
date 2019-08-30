@@ -7,7 +7,7 @@
 package converttime;
 
 /**
- * Program implements user input
+ * Program converts a user entered time in military format (24hr) and converts it to standard format (12hr).
  */
 
 import java.util.Scanner;
